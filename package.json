@@ -1,0 +1,24 @@
+{
+  "name": "cwi-desafio-cypress2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaiFrance/Cwi-Reset-desafio-cypress-2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaiFrance/Cwi-Reset-desafio-cypress-2022/issues"
+  },
+  "homepage": "https://github.com/LaiFrance/Cwi-Reset-desafio-cypress-2022#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
