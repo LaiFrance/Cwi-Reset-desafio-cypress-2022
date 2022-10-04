@@ -1,3 +1,5 @@
+https://github.com/LaiFrance/Cwi-Reset-desafio-cypress-2022.wiki.git
+
 # Cwi-Reset-desafio-cypress-2022
 Repositório criado para o conteúdo abordado durante o treinamento de automação de testes com cypress
 
